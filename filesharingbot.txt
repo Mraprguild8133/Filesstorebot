@@ -1,0 +1,98 @@
+[03-Sep-25 14:07:26 - INFO] - database.database - Database connected successfully
+[03-Sep-25 14:07:27 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeflixSupport
+[03-Sep-25 14:07:27 - INFO] - bot - BOT DEPLOYED BY @CODEFLIX_BOTS
+[03-Sep-25 14:07:27 - INFO] - bot - Bot Running..! Made by @Codeflix_Bots
+[03-Sep-25 14:07:43 - INFO] - database.database - Database connected successfully
+[03-Sep-25 14:07:44 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeflixSupport
+[03-Sep-25 14:07:44 - INFO] - bot - BOT DEPLOYED BY @CODEFLIX_BOTS
+[03-Sep-25 14:07:44 - INFO] - bot - Bot Running..! Made by @Codeflix_Bots
+[03-Sep-25 14:07:44 - INFO] - bot - Bot is now running. Thanks to @rohit_1888
+[03-Sep-25 14:07:53 - INFO] - aiohttp.access - 127.0.0.1 [03/Sep/2025:14:07:53 +0000] "GET /health HTTP/1.1" 200 181 "-" "curl/8.14.1"
+[03-Sep-25 14:08:55 - INFO] - aiohttp.access - 172.31.86.226 [03/Sep/2025:14:08:55 +0000] "GET / HTTP/1.1" 200 248 "https://b1b5f090-9825-481f-a562-1a106c2ac65a-00-3diiw7yyoenmb.janeway.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arac%3A" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36"
+[03-Sep-25 14:09:57 - INFO] - database.database - Database connected successfully
+[03-Sep-25 14:09:58 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeflixSupport
+[03-Sep-25 14:09:58 - INFO] - bot - BOT DEPLOYED BY @CODEFLIX_BOTS
+[03-Sep-25 14:09:58 - INFO] - bot - Bot Running..! Made by @Codeflix_Bots
+[03-Sep-25 14:09:58 - INFO] - bot - Bot is now running. Thanks to @rohit_1888
+[03-Sep-25 14:10:00 - INFO] - aiohttp.access - 172.31.86.226 [03/Sep/2025:14:10:00 +0000] "GET / HTTP/1.1" 200 248 "https://b1b5f090-9825-481f-a562-1a106c2ac65a-00-3diiw7yyoenmb.janeway.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arc0%3A" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36"
+[03-Sep-25 14:11:34 - INFO] - database.database - Database connected successfully
+[03-Sep-25 14:11:35 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeflixSupport
+[03-Sep-25 14:11:35 - INFO] - bot - BOT DEPLOYED BY @CODEFLIX_BOTS
+[03-Sep-25 14:11:35 - INFO] - bot - Bot Running..! Made by @Codeflix_Bots
+[03-Sep-25 14:11:36 - INFO] - bot - Bot is now running. Thanks to @rohit_1888
+[03-Sep-25 14:11:36 - INFO] - aiohttp.access - 172.31.86.226 [03/Sep/2025:14:11:36 +0000] "GET / HTTP/1.1" 200 248 "https://b1b5f090-9825-481f-a562-1a106c2ac65a-00-3diiw7yyoenmb.janeway.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ardu%3A" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36"
+[03-Sep-25 14:13:13 - INFO] - database.database - Database connected successfully
+[03-Sep-25 14:13:14 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeflixSupport
+[03-Sep-25 14:13:14 - INFO] - bot - BOT DEPLOYED BY @CODEFLIX_BOTS
+[03-Sep-25 14:13:14 - INFO] - bot - Bot Running..! Made by @Codeflix_Bots
+[03-Sep-25 14:13:15 - INFO] - bot - Bot is now running. Thanks to @rohit_1888
+[03-Sep-25 14:13:17 - INFO] - aiohttp.access - 172.31.86.226 [03/Sep/2025:14:13:17 +0000] "GET / HTTP/1.1" 200 248 "https://b1b5f090-9825-481f-a562-1a106c2ac65a-00-3diiw7yyoenmb.janeway.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arg5%3A" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36"
+[03-Sep-25 14:15:01 - INFO] - database.database - Database connected successfully
+[03-Sep-25 14:15:02 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeflixSupport
+[03-Sep-25 14:15:02 - INFO] - bot - BOT DEPLOYED BY @CODEFLIX_BOTS
+[03-Sep-25 14:15:02 - INFO] - bot - Bot Running..! Made by @Codeflix_Bots
+[03-Sep-25 14:15:03 - INFO] - bot - Bot is now running. Thanks to @rohit_1888
+[03-Sep-25 14:15:03 - INFO] - aiohttp.access - 172.31.86.226 [03/Sep/2025:14:15:03 +0000] "GET / HTTP/1.1" 200 248 "https://b1b5f090-9825-481f-a562-1a106c2ac65a-00-3diiw7yyoenmb.janeway.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arib%3A" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36"
+[03-Sep-25 14:15:21 - ERROR] - pyrogram.dispatcher - Unhandled exception: 'NoneType' object has no attribute 'acquire'
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/pyrogram/dispatcher.py", line 370, in _process_packet
+    await self._execute_callback(handler, parsed_update)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/pyrogram/dispatcher.py", line 407, in _execute_callback
+    await handler.callback(self.client, *args)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/pyrogram/handlers/message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/home/runner/workspace/plugins/start.py", line 18, in start_command
+    await db.add_user(user_id, username, first_name, last_name)
+  File "/home/runner/workspace/database/database.py", line 70, in add_user
+    async with self.pool.acquire() as conn:
+               ^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'acquire'
+[03-Sep-25 14:15:22 - INFO] - database.database - Database connected successfully
+[03-Sep-25 14:15:23 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeflixSupport
+[03-Sep-25 14:15:23 - INFO] - bot - BOT DEPLOYED BY @CODEFLIX_BOTS
+[03-Sep-25 14:15:23 - INFO] - bot - Bot Running..! Made by @Codeflix_Bots
+[03-Sep-25 14:15:23 - INFO] - bot - Bot is now running. Thanks to @rohit_1888
+[03-Sep-25 14:15:24 - INFO] - aiohttp.access - 172.31.86.226 [03/Sep/2025:14:15:24 +0000] "GET / HTTP/1.1" 200 248 "https://b1b5f090-9825-481f-a562-1a106c2ac65a-00-3diiw7yyoenmb.janeway.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arjr%3A" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36"
+[03-Sep-25 14:15:46 - INFO] - database.database - Database connected successfully
+[03-Sep-25 14:15:47 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeflixSupport
+[03-Sep-25 14:15:47 - INFO] - bot - BOT DEPLOYED BY @CODEFLIX_BOTS
+[03-Sep-25 14:15:47 - INFO] - bot - Bot Running..! Made by @Codeflix_Bots
+[03-Sep-25 14:15:47 - INFO] - bot - Bot is now running. Thanks to @rohit_1888
+[03-Sep-25 14:15:48 - INFO] - aiohttp.access - 172.31.86.226 [03/Sep/2025:14:15:48 +0000] "GET / HTTP/1.1" 200 248 "https://b1b5f090-9825-481f-a562-1a106c2ac65a-00-3diiw7yyoenmb.janeway.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arlc%3A" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36"
+[03-Sep-25 14:17:25 - INFO] - database.database - Database connected successfully
+[03-Sep-25 14:17:26 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeflixSupport
+[03-Sep-25 14:17:26 - INFO] - bot - BOT DEPLOYED BY @CODEFLIX_BOTS
+[03-Sep-25 14:17:26 - INFO] - bot - Bot Running..! Made by @Codeflix_Bots
+[03-Sep-25 14:17:26 - INFO] - bot - Bot is now running. Thanks to @rohit_1888
+[03-Sep-25 14:17:28 - INFO] - aiohttp.access - 172.31.86.226 [03/Sep/2025:14:17:28 +0000] "GET / HTTP/1.1" 200 248 "https://b1b5f090-9825-481f-a562-1a106c2ac65a-00-3diiw7yyoenmb.janeway.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arn1%3A" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36"
+[03-Sep-25 14:19:15 - INFO] - aiohttp.access - 172.31.86.226 [03/Sep/2025:14:19:15 +0000] "GET / HTTP/1.1" 200 248 "https://b1b5f090-9825-481f-a562-1a106c2ac65a-00-3diiw7yyoenmb.janeway.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arsq%3A" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36"
+[03-Sep-25 14:20:09 - INFO] - aiohttp.access - 172.31.86.226 [03/Sep/2025:14:20:09 +0000] "GET / HTTP/1.1" 200 248 "https://b1b5f090-9825-481f-a562-1a106c2ac65a-00-3diiw7yyoenmb.janeway.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar2d%3A" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"

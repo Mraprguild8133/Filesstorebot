@@ -1,0 +1,31 @@
+pyrofork==2.3.61
+TgCrypto
+pyromod==1.5
+schedule
+APscheduler
+# --- For-Database ------------ #
+psycopg2-binary
+asyncpg
+# --- For-Web-Response ------- #
+aiohttp
+python-dotenv
+# --- For-Web-Response ------- #
+pytz
+requests
+bs4
+aiofiles
+asyncio
+aiofiles
+aiohttp
+APscheduler
+asyncpg
+beautifulsoup4
+psycopg2-binary
+pyrofork==2.3.61
+pyrogram
+pyromod==1.5
+python-dotenv
+pytz
+requests
+schedule
+TgCrypto
